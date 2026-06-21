@@ -18,4 +18,8 @@ To build a highly professional data portfolio by sequentially mastering the core
 ### 📈 Daily Progress Log
 Below is the day-by-day track record of my SQL, Python, and Power BI scripts, showcasing continuous learning and practical application in the sports domain.
 
----
+### Day 1: Basic SQL Retrieval and Filtering
+- **What I learned:** Successfully extracted and filtered football player data using conditional logic.
+- **SQL Concepts:** `SELECT`, `FROM`, `WHERE`, `OR`.
+- **Domain Application:** Analyzed the `psg_squad` database to filter athletes based on their on-field positions (e.g., Defenders) and goal-scoring milestones.
+  
