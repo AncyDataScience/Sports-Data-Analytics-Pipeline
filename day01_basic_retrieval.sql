@@ -1,14 +1,3 @@
-/*
-====================================================================
-Project: Sports Data Analytics Pipeline
-Day: 01 - Basic Retrieval & Filtering
-Author: [Ancy]
-Date: June 21, 2026
-Description: This script extracts player details from the PSG squad 
-using basic SELECT statements and WHERE/OR conditions.
-====================================================================
-*/
-
 -- Task 1: Retrieve the player names and positions of all players.
 SELECT player_name, position 
 FROM psg_squad;
