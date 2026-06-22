@@ -23,3 +23,7 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **SQL Concepts:** `SELECT`, `FROM`, `WHERE`, `OR`.
 - **Domain Application:** Analyzed the `psg_squad` database to filter athletes based on their on-field positions (e.g., Defenders) and goal-scoring milestones.
   
+### Day 2: Data Aggregation & Grouping
+- **What I learned:** Calculated total, average, max, and min values, and grouped data by specific categories.
+- **SQL Concepts:** `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`, `GROUP BY`.
+- **Domain Application:** Aggregated team performance metrics for the `qatar_national_team` to analyze goals, distances, and match distributions by player positions.
