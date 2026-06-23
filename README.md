@@ -27,3 +27,10 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **What I learned:** Calculated total, average, max, and min values, and grouped data by specific categories.
 - **SQL Concepts:** `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`, `GROUP BY`.
 - **Domain Application:** Aggregated team performance metrics for the `qatar_national_team` to analyze goals, distances, and match distributions by player positions.
+
+### Day 3: Data Sorting & Advanced Aggregation Filtering
+- **What I learned:** Mastered sorting data efficiently and filtering aggregated results using HAVING.
+- **SQL Concepts:** `ORDER BY` (ASC/DESC), `LIMIT`, `HAVING`.
+- **Domain Application:** Ranked player statistics and filtered team-level aggregated metrics (like total goals and average assists) using the `player_stats` table.
+  
+  
