@@ -32,5 +32,10 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **What I learned:** Mastered sorting data efficiently and filtering aggregated results using HAVING.
 - **SQL Concepts:** `ORDER BY` (ASC/DESC), `LIMIT`, `HAVING`.
 - **Domain Application:** Ranked player statistics and filtered team-level aggregated metrics (like total goals and average assists) using the `player_stats` table.
+
+### Day 4: Relational Data & JOINs
+- **What I learned:** Mastered combining multiple datasets using INNER JOIN and LEFT JOIN, implementing table aliasing (AS) for cleaner code.
+- **SQL Concepts:** `INNER JOIN`, `LEFT JOIN`, `IS NULL`, Table Aliasing.
+- **Domain Application:** Connected individual player profiles (`players` table) with their respective franchise/national team details (`teams` table) to perform cross-table analytics.  
   
   
