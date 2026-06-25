@@ -36,6 +36,13 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 ### Day 4: Relational Data & JOINs
 - **What I learned:** Mastered combining multiple datasets using INNER JOIN and LEFT JOIN, implementing table aliasing (AS) for cleaner code.
 - **SQL Concepts:** `INNER JOIN`, `LEFT JOIN`, `IS NULL`, Table Aliasing.
-- **Domain Application:** Connected individual player profiles (`players` table) with their respective franchise/national team details (`teams` table) to perform cross-table analytics.  
+- **Domain Application:** Connected individual player profiles (`players` table) with their respective franchise/national team details (`teams` table) to perform cross-table analytics.
+  
+### Day 5: Subqueries (Nested Queries)
+- **What I learned:** Mastered the ability to write dynamic inner queries to filter data based on calculated aggregated values (like averages and max values).
+- **SQL Concepts:** `Subqueries` (Inner and Outer Queries).
+- **Domain Application:** Evaluated player market values and goal statistics against dynamic averages within the `transfer_market` dataset.
+
+
   
   
