@@ -43,6 +43,12 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **SQL Concepts:** `Subqueries` (Inner and Outer Queries).
 - **Domain Application:** Evaluated player market values and goal statistics against dynamic averages within the `transfer_market` dataset.
 
+### Day 6: Conditional Logic in SQL
+- **What I learned:** Implemented IF-ELSE logic in SQL to dynamically categorize and classify data points. 
+- **SQL Concepts:** `CASE WHEN`, `THEN`, `ELSE`, `END AS`.
+- **Domain Application:** Categorized player metrics into meaningful business segments (e.g., Star players, Veterans, Elite performance) within the `player_metrics` dataset.
+
+
 
   
   
