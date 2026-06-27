@@ -48,6 +48,12 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **SQL Concepts:** `CASE WHEN`, `THEN`, `ELSE`, `END AS`.
 - **Domain Application:** Categorized player metrics into meaningful business segments (e.g., Star players, Veterans, Elite performance) within the `player_metrics` dataset.
 
+### Day 7: Aggregate Functions & Data Grouping
+- **What I learned:** Mastered the use of aggregate functions (COUNT, SUM, AVG, MAX, MIN) and GROUP BY clauses to summarize football player statistics.
+- **SQL Concepts:** `Aggregate Functions`, `GROUP BY`, `Data Summarization`.
+- **Domain Application:** Performed comprehensive data analysis on the `football_players` dataset to extract team-wise and position-wise performance metrics.
+
+
 
 
   
