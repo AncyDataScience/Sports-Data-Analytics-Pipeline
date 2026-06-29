@@ -53,6 +53,12 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **SQL Concepts:** `Aggregate Functions`, `GROUP BY`, `Data Summarization`.
 - **Domain Application:** Performed comprehensive data analysis on the `football_players` dataset to extract team-wise and position-wise performance metrics.
 
+- ### Day 8: Advanced Filtering with HAVING and ORDER BY
+- **What I learned:** Implemented 'HAVING' for group-level filtering and 'ORDER BY' for data sorting. Corrected the syntax structure for combining multiple SQL clauses.
+- **SQL Concepts:** `HAVING`, `ORDER BY`, `LIMIT`, `BETWEEN`.
+- **Domain Application:** Advanced summarization of player stats, focusing on top scorers, young teams, and high-contribution positions in the football pipeline.
+
+
 
 
 
