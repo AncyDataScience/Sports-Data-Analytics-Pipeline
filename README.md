@@ -58,6 +58,10 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **SQL Concepts:** `HAVING`, `ORDER BY`, `LIMIT`, `BETWEEN`.
 - **Domain Application:** Advanced summarization of player stats, focusing on top scorers, young teams, and high-contribution positions in the football pipeline.
 
+### Day 9: Mastering SQL JOINS
+- **What I learned:** Successfully implemented INNER JOIN to link 'players' and 'teams' tables. Mastered the use of table aliases (AS) to simplify complex queries.
+- **SQL Concepts:** `INNER JOIN`, `ON`, `GROUP BY` with `JOIN`, `Aliases`.
+- **Domain Application:** Merged relational datasets in the Football Analytics pipeline to retrieve cross-table insights such as team-specific player stats and country-based rosters.
 
 
 
