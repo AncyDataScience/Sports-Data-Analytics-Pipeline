@@ -63,6 +63,12 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **SQL Concepts:** `INNER JOIN`, `ON`, `GROUP BY` with `JOIN`, `Aliases`.
 - **Domain Application:** Merged relational datasets in the Football Analytics pipeline to retrieve cross-table insights such as team-specific player stats and country-based rosters.
 
+### Day 10: SQL Subqueries Mastery
+- **What I learned:** Mastered the use of Subqueries to perform complex nested data retrievals. Learned to filter data based on aggregate results derived from internal queries.
+- **SQL Concepts:** `Subqueries` inside `WHERE` clause, `IN`, `NOT IN`, `Nested Aggregate Functions`.
+- **Domain Application:** Executed advanced analytical queries on the football database to identify top performers, compare metrics, and filter team compositions based on complex conditions.
+
+
 
 
 
