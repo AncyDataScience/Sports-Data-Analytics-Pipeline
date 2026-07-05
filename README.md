@@ -68,6 +68,11 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **SQL Concepts:** `Subqueries` inside `WHERE` clause, `IN`, `NOT IN`, `Nested Aggregate Functions`.
 - **Domain Application:** Executed advanced analytical queries on the football database to identify top performers, compare metrics, and filter team compositions based on complex conditions.
 
+### Day 11: Introduction to DDL and DML
+- **What I learned:** Transitioned from querying data (DQL) to managing database structures (DDL) and manipulating records (DML). Learned to define schemas and handle data lifecycle events.
+- **SQL Concepts:** - **DDL:** `CREATE TABLE`, `ALTER TABLE`, `DROP TABLE`.
+- **DML:** `INSERT INTO`, `UPDATE SET`, `DELETE FROM`.
+- **Domain Application:** Designed and managed a `team_roster` and `match_results` database schema, simulating real-world operations like updating stadium capacities and recording match outcomes.
 
 
 
