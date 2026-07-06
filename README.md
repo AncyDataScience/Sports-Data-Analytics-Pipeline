@@ -74,6 +74,16 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **DML:** `INSERT INTO`, `UPDATE SET`, `DELETE FROM`.
 - **Domain Application:** Designed and managed a `team_roster` and `match_results` database schema, simulating real-world operations like updating stadium capacities and recording match outcomes.
 
+### Day 12: SQL Constraints (Data Integrity)
+- **What I learned:** Mastered the implementation of database constraints to ensure data accuracy and integrity. Learned how to enforce rules at the schema level.
+- **SQL Concepts:** - `PRIMARY KEY` (Unique identification)
+  - `NOT NULL` (Mandatory fields)
+  - `UNIQUE` (Preventing duplicate values)
+  - `DEFAULT` (Automatic fallback values)
+  - `FOREIGN KEY` (Relational integrity)
+- **Domain Application:** Designed a robust football database structure (stadiums, coaches, transfers, players, leagues, clubs) with strict rules to prevent data errors and maintain consistency across the pipeline.
+  
+
 
 
 
