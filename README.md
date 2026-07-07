@@ -82,6 +82,13 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
   - `DEFAULT` (Automatic fallback values)
   - `FOREIGN KEY` (Relational integrity)
 - **Domain Application:** Designed a robust football database structure (stadiums, coaches, transfers, players, leagues, clubs) with strict rules to prevent data errors and maintain consistency across the pipeline.
+
+### Day 13: Database Optimization (Index & Views)
+- **What I learned:** Explored techniques to optimize database performance and simplify complex query management.
+- **SQL Concepts:** - **INDEX:** Accelerated data retrieval by creating indexes on frequently queried columns.
+- **VIEW:** Created virtual tables to encapsulate complex JOIN logic and simplify repetitive report generation.
+- **Domain Application:** Optimized the football analytics pipeline by creating indexes on `player_name` and `team_name` for faster searching. Developed modular views for `top_scorers` and `player_details`, making the analysis of football data more efficient and maintainable.
+
   
 
 
