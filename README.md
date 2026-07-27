@@ -92,7 +92,7 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 
 - **Domain Application:** Optimized the football analytics pipeline by creating indexes on `player_name` and `team_name` for faster searching. Developed modular views for `top_scorers` and `player_details`, making the analysis of football data more efficient and maintainable.
 
-- ### PYTHON ###
+### PYTHON ###
 
 # Day 16 - Introduction to Python for Sports Analytics
 
