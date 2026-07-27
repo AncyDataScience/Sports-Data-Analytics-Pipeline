@@ -10,8 +10,6 @@ To build a highly professional data portfolio by sequentially mastering the core
 2. **Data Cleaning & Advanced Analytics** (Python)
 3. **Interactive Data Visualization** (Power BI)
 
-## SQL ##
-
 ### 🗓️ The 4-Month Roadmap
 - **Phase 1 (SQL):** Querying complex sports databases, using JOINs, aggregations, and window functions to extract precise match data.
 - **Phase 2 (Python):** Utilizing Pandas and NumPy to clean raw data, perform statistical analysis, and compute advanced football metrics (e.g., Expected Goals - xG).
@@ -19,6 +17,8 @@ To build a highly professional data portfolio by sequentially mastering the core
 
 ### 📈 Daily Progress Log
 Below is the day-by-day track record of my SQL, Python, and Power BI scripts, showcasing continuous learning and practical application in the sports domain.
+
+### SQL ###
 
 ### Day 1: Basic SQL Retrieval and Filtering
 - **What I learned:** Successfully extracted and filtered football player data using conditional logic.
@@ -89,7 +89,21 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 - **What I learned:** Explored techniques to optimize database performance and simplify complex query management.
 - **SQL Concepts:** - **INDEX:** Accelerated data retrieval by creating indexes on frequently queried columns.
 - **VIEW:** Created virtual tables to encapsulate complex JOIN logic and simplify repetitive report generation.
+
 - **Domain Application:** Optimized the football analytics pipeline by creating indexes on `player_name` and `team_name` for faster searching. Developed modular views for `top_scorers` and `player_details`, making the analysis of football data more efficient and maintainable.
+
+- ### PYTHON ###
+
+# Day 16 - Introduction to Python for Sports Analytics
+
+### What I Learned:
+1. **Lists in Python:** How to store multiple data values (like player names and goals) in lists.
+2. **Indexing:** Accessing specific items in a list using index numbers starting from `0`.
+3. **Append Method:** Using `.append()` to dynamically add new data to existing lists.
+
+### Files Included:
+* `day16_python_basics.py`: Python script practicing lists, indexing, and appending data.
+
 
   
 
