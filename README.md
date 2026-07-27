@@ -94,7 +94,7 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 
 ### PYTHON ###
 
-# Day 16 - Introduction to Python for Sports Analytics
+# Day 16: Introduction to Python for Sports Data Analytics 
 
 ### What I Learned:
 1. **Lists in Python:** How to store multiple data values (like player names and goals) in lists.
