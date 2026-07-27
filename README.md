@@ -10,6 +10,8 @@ To build a highly professional data portfolio by sequentially mastering the core
 2. **Data Cleaning & Advanced Analytics** (Python)
 3. **Interactive Data Visualization** (Power BI)
 
+## SQL ##
+
 ### 🗓️ The 4-Month Roadmap
 - **Phase 1 (SQL):** Querying complex sports databases, using JOINs, aggregations, and window functions to extract precise match data.
 - **Phase 2 (Python):** Utilizing Pandas and NumPy to clean raw data, perform statistical analysis, and compute advanced football metrics (e.g., Expected Goals - xG).
