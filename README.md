@@ -94,7 +94,7 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 
 ### PYTHON ###
 
-* # Day 16: Introduction to Python for Sports Data Analytics
+### Day 16: Introduction to Python for Sports Data Analytics
   
 Today, we started our Python journey for sports data analysis!   
 
@@ -106,7 +106,7 @@ Today, we started our Python journey for sports data analysis!
 ### Files Included:
 * `day16_python_basics.py`: Python script practicing lists, indexing, and appending data.
 
-* # Day 17 - Python Dictionaries and Lists of Dictionaries
+### Day 17: Python Dictionaries and Lists of Dictionaries
 
 Today, we advanced our Python skills for sports analytics by learning about Dictionaries!
 
