@@ -94,7 +94,9 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 
 ### PYTHON ###
 
-# Day 16: Introduction to Python for Sports Data Analytics 
+* # Day 16: Introduction to Python for Sports Data Analytics
+  
+Today, we started our Python journey for sports data analysis!   
 
 ### What I Learned:
 1. **Lists in Python:** How to store multiple data values (like player names and goals) in lists.
@@ -103,6 +105,18 @@ Below is the day-by-day track record of my SQL, Python, and Power BI scripts, sh
 
 ### Files Included:
 * `day16_python_basics.py`: Python script practicing lists, indexing, and appending data.
+
+* # Day 17 - Python Dictionaries and Lists of Dictionaries
+
+Today, we advanced our Python skills for sports analytics by learning about Dictionaries!
+
+### What I Learned:
+1. **Dictionaries:** Storing structured data using Key-Value pairs (e.g., name, goals, team).
+2. **List of Dictionaries:** Combining lists and dictionaries to manage multiple players' complete statistics efficiently.
+
+### Files Included:
+* `day17_dictionaries.py`: Python script practicing player statistics using dictionaries.
+
 
 
   
