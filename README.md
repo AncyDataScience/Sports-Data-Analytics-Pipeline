@@ -117,6 +117,18 @@ Today, we advanced our Python skills for sports analytics by learning about Dict
 - **Files Included**:
      * `day17_dictionaries.py`: Python script practicing player statistics using             dictionaries.
 
+### Day 18 - Python For Loops for Sports Analytics
+
+Today, we learned how to use `for loops` to process multiple player records efficiently without repeating code!
+
+- **What I Learned**:
+  1. **For Loops:** Iterating through a list of dictionaries automatically.
+  2. **Code Efficiency:** Managing and displaying multiple statistics with fewer            lines of code.
+
+- **Files Included:
+     * `day18_loops.py`: Python script demonstrating loops with player statistics.
+ 
+
 
 
   
