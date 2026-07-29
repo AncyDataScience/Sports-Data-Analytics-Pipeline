@@ -125,10 +125,20 @@ Today, we learned how to use `for loops` to process multiple player records effi
   1. **For Loops:** Iterating through a list of dictionaries automatically.
   2. **Code Efficiency:** Managing and displaying multiple statistics with fewer            lines of code.
 
-- **Files Included:
+- **Files Included**:
      * `day18_loops.py`: Python script demonstrating loops with player statistics.
  
 
+### Day 18 - Filtering Data with For Loops and If Conditions
+
+Today, we combined `for loops` and `if conditions` to filter sports analytics data efficiently!
+
+- **What I Learned**:
+  1. **Filtering Data:** Using conditional statements (`>=`) inside loops to extract        specific records.
+  2. **Conditional Logic:** Processing only the data that matches our required .            criteria (e.g., top goalscorers).
+
+- **Files Included**:
+     * `day18_filtering.py`: Python script demonstrating data filtering using loops          and conditions.
 
 
   
