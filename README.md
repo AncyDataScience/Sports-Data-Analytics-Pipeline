@@ -139,6 +139,19 @@ Today, we combined `for loops` and `if conditions` to filter sports analytics da
 
 - **Files Included**:
      * `day18_filtering.py`: Python script demonstrating data filtering using loops          and conditions.
+ 
+### Day 19 - Introduction to Python Functions
+
+Today, we learned how to create and use reusable blocks of code called Functions in Python!
+
+- **What I Learned**:
+  1. **`def` Keyword:** How to define custom functions to avoid repeating code.
+  2. **Parameters & Arguments:** Passing dynamic values (like player name, goals,           and team) into functions.
+  3. **Function Calling:** Executing the defined function multiple times with               different data efficiently.
+
+- **Files Included**:
+     * `day19_functions.py`: Python script practicing functions for sports analytics.
+ 
 
 
   
