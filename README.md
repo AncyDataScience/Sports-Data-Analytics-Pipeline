@@ -151,6 +151,17 @@ Today, we learned how to create and use reusable blocks of code called Functions
 
 - **Files Included**:
      * `day19_functions.py`: Python script practicing functions for sports analytics.
+
+### Day 20 - Python Functions with Return Statements
+
+Today, we learned how to send calculated results back from a function using the `return` statement in Python!
+
+- **What I Learned**:
+  1. **`return` Keyword:** How to capture and use data computed inside a function.
+  2. **Function Output Handling:** Storing returned values in variables for further         analysis (e.g., total goals calculation).
+
+- **Files Included**:
+     * `day20_return_functions.py`: Python script practicing functions with return           values for sports analytics.
  
 
 
