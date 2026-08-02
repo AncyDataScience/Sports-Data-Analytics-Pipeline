@@ -163,7 +163,7 @@ Today, we learned how to send calculated results back from a function using the 
 - **Files Included**:
      * `day20_return_functions.py`: Python script practicing functions with return           values for sports analytics.
 
-# Day 21 - Introduction to Pandas for Sports Analytics
+### Day 21 - Introduction to Pandas for Sports Analytics
 
 Today, we started using **Pandas**, the most powerful data analysis library in Python!
 
