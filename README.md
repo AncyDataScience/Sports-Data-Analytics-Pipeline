@@ -162,6 +162,19 @@ Today, we learned how to send calculated results back from a function using the 
 
 - **Files Included**:
      * `day20_return_functions.py`: Python script practicing functions with return           values for sports analytics.
+
+# Day 21 - Introduction to Pandas for Sports Analytics
+
+Today, we started using **Pandas**, the most powerful data analysis library in Python!
+
+- **What I Learned**:
+  1. **Importing Pandas:** How to import the pandas library using `import pandas as         pd`.
+  2. **DataFrames:** Converting raw data dictionaries into structured, table formats        using `pd.DataFrame()`.
+  3. **Sports Data Management:** Organizing sports statistics into rows and columns         for easier analysis.
+
+- **Files Included**:
+     * `day21_pandas_intro.py`: Python script demonstrating Pandas DataFrames for            player statistics.
+ 
  
 
 
