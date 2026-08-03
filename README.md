@@ -175,6 +175,17 @@ Today, we started using **Pandas**, the most powerful data analysis library in P
 - **Files Included**:
      * `day21_pandas_intro.py`: Python script demonstrating Pandas DataFrames for            player statistics.
  
+### Day 22 - Filtering Data Using Pandas DataFrames
+
+Today, we learned how to filter and extract specific rows from a Pandas DataFrame based on conditional logic!
+
+- **What I Learned**:
+  1. **Conditional Filtering:** Using boolean conditions (e.g., `df["Goals"] >= 25`)        inside a DataFrame.
+  2. **Data Extraction:** Pulling only the relevant records matching our criteria           while keeping all associated columns (Player, Goals, Team).
+
+- **Files Included**:
+     * `day22_pandas_filtering.py`: Python script demonstrating data filtering with          Pandas.
+ 
  
 
 
