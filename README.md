@@ -185,6 +185,18 @@ Today, we learned how to filter and extract specific rows from a Pandas DataFram
 
 - **Files Included**:
      * `day22_pandas_filtering.py`: Python script demonstrating data filtering with          Pandas.
+
+### Day 23 - Sorting Data Using Pandas DataFrames
+
+Today, we learned how to sort sports analytics data efficiently using Pandas!
+
+- **What I Learned**:
+  1. **Sorting Values:** Using `.sort_values()` to arrange rows based on specific           columns.
+  2. **Descending Order:** Setting `ascending=False` to list the highest goalscorers        at the top of the table.
+
+- **Files Included**:
+     * `day23_pandas_sorting.py`: Python script demonstrating data sorting with              Pandas.
+ 
  
  
 
