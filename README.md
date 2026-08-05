@@ -196,6 +196,19 @@ Today, we learned how to sort sports analytics data efficiently using Pandas!
 
 - **Files Included**:
      * `day23_pandas_sorting.py`: Python script demonstrating data sorting with              Pandas.
+
+### Day 24 - Basic Statistics Using Pandas DataFrames
+
+Today, we learned how to compute essential mathematical statistics on sports datasets using Pandas built-in functions!
+
+- **What I Learned**:
+  1. **Sum (`.sum()`):** Calculating the total sum of a numerical column (e.g.,             total goals).
+  2. **Mean (`.mean()`):** Finding the mathematical average of a dataset.
+  3. **Max (`.max()`):** Identifying the highest value in a column.
+
+- **Files Included**:
+     * `day24_pandas_stats.py`: Python script demonstrating statistical analysis             using Pandas.
+ 
  
  
  
