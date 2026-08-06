@@ -208,6 +208,18 @@ Today, we learned how to compute essential mathematical statistics on sports dat
 
 - **Files Included**:
      * `day24_pandas_stats.py`: Python script demonstrating statistical analysis             using Pandas.
+
+### Day 25 - Adding New Columns to Pandas DataFrames
+
+Today, we learned how to perform column-wise operations and add new computed columns to our sports dataset!
+
+- **What I Learned**:
+  1. **Column Arithmetic:** Combining existing columns (Goals + Assists) to generate        new insights.
+  2. **DataFrame Enhancement:** Successfully appending a new column                         (`Total_Contributions`) to an existing Pandas DataFrame.
+
+- **Files Included**:
+     * `day25_add_column.py`: Python script demonstrating how to add new calculated          columns in Pandas.
+ 
  
  
  
