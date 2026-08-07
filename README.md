@@ -219,6 +219,18 @@ Today, we learned how to perform column-wise operations and add new computed col
 
 - **Files Included**:
      * `day25_add_column.py`: Python script demonstrating how to add new calculated          columns in Pandas.
+
+### Day 26 - Handling Missing Data in Pandas DataFrames
+
+Today, we learned how to clean sports datasets by handling missing or null values (`NaN`) using Pandas!
+
+- **What I Learned**:
+  1. **Identifying Missing Data:** Spotting `NaN` values in raw dataframes.
+  2. **Dropping Rows (`.dropna()`):** Removing records that contain incomplete              information.
+  3. **Imputing Values (`.fillna()`):** Replacing missing data points with default          values like `0` to keep records intact.
+
+- **Files Included**:
+     * `day26_missing_data.py`: Python script demonstrating missing data handling            with Pandas.
  
  
  
