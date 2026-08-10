@@ -226,11 +226,22 @@ Today, we learned how to clean sports datasets by handling missing or null value
 
 - **What I Learned**:
   1. **Identifying Missing Data:** Spotting `NaN` values in raw dataframes.
-  2. **Dropping Rows (`.dropna()`):** Removing records that contain incomplete              information.
-  3. **Imputing Values (`.fillna()`):** Replacing missing data points with default          values like `0` to keep records intact.
+  2. **Dropping Rows (`.dropna()`):** Removing records that contain incomplete                          information.
+  3. **Imputing Values (`.fillna()`):** Replacing missing data points with default                      values like `0` to keep records intact.
 
 - **Files Included**:
-     * `day26_missing_data.py`: Python script demonstrating missing data handling            with Pandas.
+     * `day26_missing_data.py`: Python script demonstrating missing data handling                        with Pandas.
+
+### Day 27 - Grouping Data Using Pandas (`groupby`)
+
+Today, we learned how to aggregate and group sports analytics data by categories using the Pandas `groupby()` function!
+
+- **What I Learned**:
+  1. **Grouping Data (`.groupby()`):** Categorizing rows based on specific columns (e.g., Team).
+  2. **Aggregation (`.sum()`):** Performing calculations (like total goals) across each unique          group.
+
+- **Files Included**:
+     * `day27_groupby.py`: Python script demonstrating data grouping and aggregation with Pandas.
  
  
  
