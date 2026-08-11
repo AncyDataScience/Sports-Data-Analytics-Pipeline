@@ -243,6 +243,16 @@ Today, we learned how to aggregate and group sports analytics data by categories
 - **Files Included**:
      * `day27_groupby.py`: Python script demonstrating data grouping and aggregation with Pandas.
  
+### Day 28 - Reading CSV Files Using Pandas
+
+Today, we learned how to load external datasets (like CSV files) into Python using Pandas for data analysis!
+
+- **What I Learned**:
+  1. **Reading CSV Files (`pd.read_csv()`):** Importing structured spreadsheet data into a              Pandas DataFrame.
+  2. **Previewing Data (`.head()`):** Quickly inspecting the first 5 rows of a large dataset.
+
+- **Files Included**:
+     * `day28_read_csv.py`: Python script demonstrating how to read CSV files with Pandas.
  
  
  
