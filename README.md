@@ -254,6 +254,16 @@ Today, we learned how to load external datasets (like CSV files) into Python usi
 - **Files Included**:
      * `day28_read_csv.py`: Python script demonstrating how to read CSV files with Pandas.
  
+### Day 29 - Advanced Data Summary & Finding Maximum in Pandas
+
+Today, we learned how to extract specific insights from our dataset, such as finding the top-performing record using indexing and location functions!
+
+- **What I Learned**:
+  1. **Finding Max Index (`.idxmax()`):** Locating the exact row index of the highest value in a        column.
+  2. **Locating Rows (`.loc[]`):** Extracting the complete record of a specific row index from          the DataFrame.
+
+- **Files Included:
+     * `day29_summary_analysis.py`: Python script demonstrating advanced summary operations in           Pandas.
  
  
  
