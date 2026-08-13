@@ -265,6 +265,20 @@ Today, we learned how to extract specific insights from our dataset, such as fin
 - **Files Included:
      * `day29_summary_analysis.py`: Python script demonstrating advanced summary operations in           Pandas.
  
+### Day 30 - Final Capstone Project: Sports Data Analytics Pipeline
+
+Today marks the successful completion of our 30-day Python and Pandas data analysis journey by building a complete end-to-end sports analytics pipeline!
+
+- **What I Implemented in this Project**:
+  1. **DataFrame Creation:** Structured raw sports statistics into a Pandas DataFrame.
+  2. **Column-wise Operations:** Generated new insights by calculating `Total_Contributions`            (Goals + Assists).
+  3. **Data Sorting:** Ordered players based on performance using `.sort_values()`.
+  4. **Statistical Aggregation:** Computed total league goals and average metrics using `.sum()`        and `.mean()`.
+  5. **Advanced Indexing:** Automatically identified award winners (Golden Boot & Playmaker)            using `.idxmax()` and `.loc[]`.
+
+- **Files Included**:
+     * `day30_capstone_project.py`: Complete Python script for the football season analytics             report.
+
  
  
 
